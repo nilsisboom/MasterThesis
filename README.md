@@ -96,5 +96,8 @@ data in the test and out-of-sample period, A decomposition plot showing how well
 ##BlockRNN - 2 covariates glass and plastic recycling#
 The file represents an exact copy of the BlockRNN - 2 covariates EU countries.py file. The only difference is that multiple variables are used to model the result. Please see Result and Discussion of my thesis.
 
-##BlockRNN - 68 co-variates glass and plastic recycling##
-The file represents an exact copy of the NBEATS - 2 covariates EU countries.py file. The only difference is that multiple variables are used to model the result. Please see Result and Discussion of my thesis.
+##BlockRNN - all covariates materials##
+The file represents a copy of the ##BlockRNN - 2 covariates EU countries.py## However, instead of two co-variates the full dataset representing recycling rates of glass and plastic of all European countries in the dataset were were used following the same proceedure as in ##BlockRNN - 2 covariates EU countries.py##. Outputs are the same as in 
+##BlockRNN - 2 covariates EU countries.py## but without the plot showing the percentual differences.
+
+The only difference is that multiple variables are used to model the result. Please see Result and Discussion of my thesis.
