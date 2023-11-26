@@ -6,7 +6,7 @@ ML presents a unique opportunity to identify patterns in data structures. Furthe
 would enable a identification of environmental impacts of products during their development, hence the assessment method has potential to significantly reduce harmful environmental emissions of products by guiding design decisions of technology developers.
 
 How users can get started with the project:
-My master thesis provides an overview of the field and identifies the knowledge gap and potential research fields. The thesis can be found under:
+My master thesis provides an overview of the field of ML in ex-ante LCA and identifies the knowledge gap and potential research fields. The thesis can be found under:
 
 Where users can get help with your project:
 n.pauliks@umail.leidenuniv.nl
