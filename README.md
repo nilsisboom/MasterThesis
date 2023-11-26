@@ -93,10 +93,10 @@ Expected inputs: The above mentioned libraries, the data file "waste per EWC and
 Expected outputs: A plot showing the percentual differences between forecasted values and test values (visual representation of Mean Average Percentage Error), A plot showing the actual data and the forecasted 
 data in the test and out-of-sample period, A decomposition plot showing how well the forecasted values in the test period represent the trend, the seasonality and the residual in the test period, , Model performance parameter results for MSE, RMSE, MAPE and R2. 
 
-##BlockRNN - 2 covariates glass and plastic recycling#
+##BlockRNN - 2 covariates glass and plastic recycling.py#
 The file represents an exact copy of the BlockRNN - 2 covariates EU countries.py file. The only difference is that multiple variables are used to model the result. Please see Result and Discussion of my thesis.
 
-##BlockRNN - all covariates materials##
+##BlockRNN - all covariates materials.py##
 The file represents a copy of the ##BlockRNN - 2 covariates EU countries.py## However, instead of two co-variates the full dataset representing recycling rates of glass and plastic of all European countries in the dataset were were used following the same proceedure as in ##BlockRNN - 2 covariates EU countries.py##. Outputs are the same as in 
 ##BlockRNN - 2 covariates EU countries.py## but without the plot showing the percentual differences.
 
